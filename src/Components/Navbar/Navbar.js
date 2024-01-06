@@ -15,18 +15,18 @@ function coursera() {
                 </div>
                 <ul className="nav_links">
                     <li className="link">
-                        <a href="Home">Home</a>
+                        <a href="./Components/Landing_Page/Landing_Page">Home</a>
                     </li>
                     <li className="link">
-                        <a href="Appointment">Appointments</a>
+                        <a href="./Components/Landing_Page/Landing_Page">Appointments</a>
                     </li>
                     <li className="link">
-                        <a href="/grihf-frontend_capstone_starter_code/Sign_Up/Sign_Up.html">
+                        <a href="./Components/Landing_Page/Sign_Up">
                             <button className="btn1">Sign Up</button>
                         </a>
                     </li>
                     <li className="link">
-                        <a href="/grihf-frontend_capstone_starter_code/Login/Login.html">
+                        <a href="./Components/Landing_Page/Login">
                             <button className="btn1">Login</button>
                         </a>
                     </li>

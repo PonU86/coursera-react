@@ -4,6 +4,7 @@
     padding: 40px;
     margin-top: 10%;
     overflow: hidden;
+    margin-top: 5%;
   }
   .password-visibility{
     position: relative;
@@ -27,6 +28,7 @@
   .signup-text1 {
     grid-column: -1 / 3;
     text-align: right;
+    text-align: left;
   }
   .signup-text1  span{
     color: #3c79a7;
@@ -99,4 +101,8 @@
 sup {
     vertical-align: super;
     font-size: smaller;
+}
+
+.loginColor {
+    color: #2190FF;
 }
