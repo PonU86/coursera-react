@@ -1,5 +1,9 @@
 import './Navbar.css';
 
+
+
+
+
 function coursera() {
     return (
         <div>
@@ -27,7 +31,9 @@ function coursera() {
                     </li>
                     <li className="link">
                         <a href="./Components/Landing_Page/Login">
-                            <button className="btn1">Login</button>
+                        
+                        
+                            {/*<button className="btn1">Login</button>*/}
                         </a>
                     </li>
                 </ul>
